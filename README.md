@@ -1,4 +1,4 @@
-## Installation 
+Installation 
 
 ## Drag and Drop / Put in Standalone Resources Folder
 ## ensure gr-entitytool in Server.cfg/Resources.cfg
